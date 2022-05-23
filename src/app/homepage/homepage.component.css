@@ -1,0 +1,44 @@
+.bk{
+    height: 490px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;  
+      
+}
+.container
+{ 
+   margin: auto;
+   width: 40%;
+   border:3px salmon;
+   padding: 10px;   
+   position: absolute;
+   top: 50%;
+   left: 40%;
+   transform: translate(-50%,-50%);
+}
+.a
+{
+    padding: 20px;   
+    position: center;
+
+ }
+ .b
+{
+    padding: 20px;   
+    position: center;
+
+ }
+ .c
+{
+    padding: 20px;   
+    position: center;
+
+ }
+ .d
+{
+    padding: 20px;   
+    position: center;
+
+ }
+
+ 

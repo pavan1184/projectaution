@@ -1,0 +1,11 @@
+.container
+{ 
+   margin: auto;
+   width: 40%;
+   border:3px salmon;
+   padding: 10px;   
+   position: absolute;
+   top: 30%;
+   left: 40%;
+   transform: translate(-50%,-50%);
+}

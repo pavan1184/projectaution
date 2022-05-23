@@ -1,0 +1,19 @@
+.container
+{
+   
+    float: right;
+    padding-left: 1100px;
+    
+}
+.app
+{
+    
+    border:3px salmon;
+    padding: 10px;   
+    position: absolute;
+    top: 3%;
+    left: 50%;
+    transform: translate(-50%,-50%)
+}
+
+    

@@ -1,0 +1,41 @@
+.bk{
+    height: 490px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;  
+      
+}
+.container
+{ 
+   margin: auto;
+   width: 40%;
+   border:3px #ffff;
+   padding: 10px;   
+   position: absolute;
+   top: 25%;
+   left: 50%;
+   transform: translate(-50%,-50%);
+}
+.headline
+{
+    color: #ffff;
+    font-weight: bolder;
+    margin-top: 78px;
+}
+.form-group
+{
+    color: #ffff;
+}
+
+.checkbox
+{
+    color: #ffff;
+}
+
+.right
+{
+    color: #ffff;
+  
+    float: right;
+    
+}
